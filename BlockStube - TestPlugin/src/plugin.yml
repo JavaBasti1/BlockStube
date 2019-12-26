@@ -1,0 +1,8 @@
+name: BlockStube_Test
+main: de.javabasti.testplugin.Main
+author: JavaBasti
+version: 1.0
+
+commands:
+  inventory:
+  countdown:
